@@ -44,8 +44,4 @@ Teaching
 
 Awards
 ======
-* Unfunded Research Reward, Kuwait University (2024)  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Unfunded Research Reward, Kuwait University (2024)
