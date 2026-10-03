@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV (PDF)](/files/cv.pdf)
-
 Education
 ======
 * PhD Computer Science, Queen Mary University of London, 2026 to present
