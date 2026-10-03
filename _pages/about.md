@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the School of Electronic Engineering and Computer Science (EECS), Queen Mary University of London (QMUL), supervised by [Dr. Ahmed M. A. Sayed](https://www.qmul.ac.uk/). My research looks at ethical behaviour in LLM-based autonomous agents, focusing on how to evaluate and judge agent actions across full multi-step trajectories.
+I am a PhD student at the School of Electronic Engineering and Computer Science (EECS), Queen Mary University of London (QMUL), supervised by [Dr. Ahmed M. A. Sayed](https://www.qmul.ac.uk/eecs/people/profiles/sayedahmed.html). My research looks at ethical behaviour in LLM-based autonomous agents, focusing on how to evaluate and judge agent actions across full multi-step trajectories.
 
 I am also a Senior Research Associate at the [Kuwait Institute for Scientific Research (KISR)](https://www.kisr.edu.kw), Systems and Software Development Department, which sponsors my PhD. At KISR I have led applied AI projects with public-sector partners in Kuwait, including machine learning decision support for cybercrime investigations, prediction models for charitable organisations, and a genomic database for chicken breeds.
 
